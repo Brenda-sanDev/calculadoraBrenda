@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(216, 209, 209);
+}
+
+.conjunto p{
+    margin-left: 10px;
+}
+
+.n{
+    width: 200px;
+    height: 40px;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    margin-left: 10px;
+}
+
+span{
+    border-bottom: 2px solid;
+    margin-left: 70px;
+    font-size: 28px;
+
+}
+.resultado{
+    margin-left: 40px;
+   
+}
+.btnSimples{
+    margin: 3px;
+    width: 40px;
+    background-color: bisque;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.botões{
+    display: flex;
+    margin-bottom: 10px;
+
+   
+}
